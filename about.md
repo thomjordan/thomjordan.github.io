@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-
+<!-- 
 Thom Jordan is an improvisational musician and software engineer specializing in the development of event-driven reactive components for interactive music practice. 
 
 He's currently working toward the first public beta release of "Reactive Controls", a visual signal-based environment for hosting and running user-defined interactive performance setups. Some of its more novel features include: recombinant pattern generation, content-aware selection, automapping, tempo-sync with Ableton Link, and now real time generation and control of motion graphics defined by the user in an 'ISF' script [1].
@@ -17,3 +17,4 @@ Thom is in the process of relocating to Tucson, AZ, for setting up a development
 
 * [1] Established by VIDVOX, makers of VDMX, 'ISF' (Interactive Shader Format) is an open-source file format and protocol used for generating low-level GLSL Fragment Shader code. Within an .isf script, a user might define some values then call some functions in the API, each expressed as valid JSON code in a text file with the extension changed to '.isf'.
 
+ -->
