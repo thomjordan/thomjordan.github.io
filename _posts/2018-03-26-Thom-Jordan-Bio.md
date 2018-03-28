@@ -11,9 +11,12 @@ In 2008, Thom returned to academia after more than a decade as a professional mu
 
 After three semesters at GT in Atlanta, he returned to Upstate NY and began applying aspects of his personalized musical thought process in establishing an expanding set of music-generating performance-related use-cases in Objective-C, soon thereafter writing more and more code exclusively in Swift.
 
-Thom began using the Kyma language in the summer of 2016 upon accidentally receiving a stray Pacarana system in the mail. He later realized that his subconsious self must have placed the order in a dream, knowing there'd be no way he'd want to return it after playing with it for few hours. The goal is to test new expressions of musical theories and related setups during performance both live and virtual, with an ear and eye towards establishing the more salient and successful ones as new features and use- cases worth developing and adding to the ever-expanding set of soft components, tools and processes.
+In June 2016, a long-imagined expansion of studio gear was underway with the arrival of a Kyma sound design environment. Along with its use as a highenviroment and transducer of raw, unbridled creative impulses, energy, and ideas,to test new expressions of musical theories and related setups during performance both live and virtual, with an ear towards establishing the more salient and successful ones as new features and use-cases worth developing as new candidates for inclusion into our expanding set of soft components, tools and processes.
 
 Thom is in the process of relocating to Tucson, AZ for setting up 'Rationum', a small development shop and software brand with an associate who specializes in systems theory and design. We're also developing a unique style of live electronic music performance along with a new species of music bot emerging along the Ethereum blockchain.
 
 * [1] Established by VIDVOX, makers of VDMX, 'ISF' (Interactive Shader Format) is an open-source file format and protocol used for generating low-level GLSL Fragment Shader code.
 
+
+
+a long-held wish predating the millennium was attained a
