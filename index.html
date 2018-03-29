@@ -1,38 +1,31 @@
----
-layout: default
-title: Home
----
+<p>
+Thom Jordan is an improvisational musician and software engineer specializing in the development of event-driven reactive components for interactive music practice. 
+</p>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<p>
+He's currently working toward the first public beta release of "Reactive Controls", a visual signal-based environment for hosting and running user-defined interactive performance setups. Some of its more novel features include: recombinant pattern generation, content-aware selection, automapping, tempo-sync with Ableton Link, and now real time generation and control of motion graphics defined by the user in an 'ISF' script [1].
+</p>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<p>
+In 2008, Thom returned to academia after more than a decade as a professional musician, majoring in Cognitive Science at SUNY Oswego, with minors in Cognitive Musicology and Computational Linguistics. Then in 2010 he transferred to SUNY Albany, graduating summa cum laude with a B.S. in Computer Science and Applied Mathematics in 2012. Accepted into Georgia Tech's graduate Music Technology program, he started there as an M.S. candidate and graduate research assistant in the Fall of 2012.
+</p>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<p>
+After three semesters at GT in Atlanta, he returned to Upstate NY and began applying aspects of his personalized musical thought process in establishing an expanding set of music-generating performance-related use-cases in Objective-C, soon thereafter writing more and more code exclusively in Swift.
+</p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<p>
+In June 2016, a long-awaited expansion of studio gear became reality with the arrival of a Kyma sound design environment. In addition to its general use as an enviroment for transduction of raw creative impulses, energy, and ideas, Kyma is being used to prototype new expressions of musical theories and related setups during performance, with an ear towards establishing the most salient ones as new use-cases worth developing for inclusion into an expanding set of soft components, tools and processes.
+</p>
+
+<p>
+Thom is in the process of relocating to Tucson, AZ for setting up 'Rationum', a small development shop and software brand with an associate who specializes in systems theory and design. We're also developing a unique style of live electronic music performance along with a new species of music bot emerging along the Ethereum blockchain.
+</p>
+
+<p>
+ [1] Established by VIDVOX, makers of VDMX, 'ISF' (Interactive Shader Format) is an open-source file format and protocol used for generating low-level GLSL Fragment Shader code.
+</p>
+
+
+
 
