@@ -11,13 +11,13 @@
 			"detailSubtitle": "With ideas from the imagination there's never a wrong answer!",
 			"description": "Part of a series expanding creativity through imaginative play.",
 			"difficultyLevel": "beginner",
-			"contentIdentifier": "io.github.thomjordan.Patagonia-3D",
+			"contentIdentifier": "io.github.thomjordan.PlaygroundBook",
 			"contentVersion": "1.0",
-			"url": "https://thomjordan.github.io/Patagonia-3D/Patagonia-3D.playgroundbook.zip",
+			"url": "https://thomjordan.github.io/PlaygroundBook/PlaygroundBook.playgroundbook.zip",
 			"publishedDate": "2019-02-24T12:00:00+00:00",
 			"lastUpdatedDate": "2019-02-24T12:00:00+00:00",
-			"thumbnailURL": "Patagonia-3D/patagonia3D.png",
-			"bannerImageURL": "Patagonia-3D/patagonia3D.png",
+			"thumbnailURL": "PlaygroundBook/patagonia3D.png",
+			"bannerImageURL": "PlaygroundBook/patagonia3D.png",
 			"additionalInformation": [
 				{
 					"name": "Languages",
