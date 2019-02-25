@@ -1,1 +1,27 @@
-feed . json
+{
+	"title": "The Universe Within",
+	"publisherName": "Mat Bevel Company",
+	"feedIdentifier": "io.github.thomjordan.Patagonia-3D",
+	"formatVersion": "1.0",
+	"documents": [
+		{
+			"title": "Patagonia 3D App",
+			"overviewSubtitle": "Interacting with 3D shapes creating new ideas through imagination.",
+			"detailSubtitle": "With ideas from the imagination there's never a wrong answer!",
+			"description": "Part of a series expanding creativity through imaginative play.",
+			"contentIdentifier": "io.github.thomjordan.Patagonia-3D",
+			"contentVersion": "1.0",
+			"url": "https://thomjordan.github.io/Patagonia-3D/Patagonia-3D.playgroundbook.zip",
+			"publishedDate": "2019-02-24T12:00:00+00:00",
+			"lastUpdatedDate": "2019-02-24T12:00:00+00:00",
+			"thumbnailURL": "Patagonia-3D/patagonia3D.png",
+			"bannerImageURL": "Patagonia-3D/patagonia3D.png",
+			"additionalInformation": [
+				{
+					"name": "Languages",
+					"value": "English"
+				}
+			]
+		}
+	]
+}
